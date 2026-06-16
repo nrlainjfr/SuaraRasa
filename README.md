@@ -2,13 +2,16 @@
 
 <img src="https://img.shields.io/badge/Platform-Android-brightgreen?style=for-the-badge&logo=android" />
 <img src="https://img.shields.io/badge/Language-Kotlin-purple?style=for-the-badge&logo=kotlin" />
-<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nrlainjfr/SuaraRasa/master/logosuararasa.png" width="400" />
+</div>
 
 # 🌿 SuaraRasa
 ### *Addressing Mental Health Awareness*
 
 > **"A safe space to express, reflect, and heal."**  
-> SuaraRasa is an Android mobile app designed to support mental health and emotional well-being — built with empathy, privacy, and accessibility at its core.
+> SuaraRasa is an Android mobile app designed to support mental health and emotional well-being, built with empathy, privacy, and accessibility at its core.
 
 </div>
 
@@ -16,7 +19,7 @@
 
 ## 📖 About
 
-Mental health issues are often stigmatised, leaving many individuals without the support they need. **SuaraRasa** bridges that gap by providing a stigma-free digital space where users can express their feelings, access mental health resources, and find support — anytime, anywhere.
+Mental health issues are often stigmatised, leaving many individuals without the support they need. **SuaraRasa** bridges that gap by providing a stigma-free digital space where users can express their feelings, access mental health resources, and find support anytime, anywhere.
 
 ---
 
@@ -48,14 +51,12 @@ A self-screening tool based on the DASS-21 standard to evaluate stress, anxiety,
 
 ---
 
-## 👩‍💻 Team
+## 👩‍💻 Build by
 
-| Name | Student ID |
-|------|-----------|
-| Muhammad Amierul Syafiq bin Ghazali | A209217 |
-| Emelia Sofea binti Baharim | A209008 |
-| Nur Alia Alisa binti Abd Rahman | A209020 |
-| Nurul Ain binti Jafridin | A209233 |
+- Muhammad Amierul Syafiq bin Ghazali 
+- Emelia Sofea binti Baharim 
+- Nur Alia Alisa binti Abd Rahman 
+- Nurul Ain binti Jafridin 
 
 **Lecturer:** Dr. Rimaniza binti Zainal Abidin  
 **Faculty:** Faculty of Information Science and Technology, Universiti Kebangsaan Malaysia
@@ -123,5 +124,5 @@ This project is developed as part of an academic requirement at **Universiti Keb
 ---
 
 <div align="center">
-  <i>Made with 💜 to make mental health support more accessible for everyone.</i>
+  <i>Made with ❤️  to make mental health support more accessible for everyone.</i>
 </div>

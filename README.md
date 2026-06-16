@@ -51,12 +51,12 @@ A self-screening tool based on the DASS-21 standard to evaluate stress, anxiety,
 
 ---
 
-## 👩‍💻 Build by
+## 👩‍💻 Built by
 
-- Muhammad Amierul Syafiq bin Ghazali 
-- Emelia Sofea binti Baharim 
-- Nur Alia Alisa binti Abd Rahman 
-- Nurul Ain binti Jafridin 
+- Muhammad Amierul Syafiq bin Ghazali
+- Emelia Sofea binti Baharim
+- Nur Alia Alisa binti Abd Rahman
+- Nurul Ain binti Jafridin
 
 **Lecturer:** Dr. Rimaniza binti Zainal Abidin  
 **Faculty:** Faculty of Information Science and Technology, Universiti Kebangsaan Malaysia
@@ -78,7 +78,7 @@ A self-screening tool based on the DASS-21 standard to evaluate stress, anxiety,
 ### Prerequisites
 - Android Studio (latest version)
 - Android SDK 24+
-- Google Gemini API Key
+- Google Gemini API Key — [Get it here](https://aistudio.google.com/app/apikey)
 
 ### Installation
 
@@ -89,12 +89,14 @@ git clone https://github.com/nrlainjfr/SuaraRasa.git
 # 2. Open in Android Studio
 File → Open → select the cloned folder
 
-# 3. Add your API key in local.properties
-GEMINI_API_KEY=your_api_key_here
+# 3. Add your own Gemini API key in app/build.gradle.kts
+buildConfigField("String", "apiKey", "\"YOUR_API_KEY_HERE\"")
 
 # 4. Run the app
 Shift + F10 or click ▶ Run
 ```
+
+> ⚠️ **Important:** Never commit your API key to GitHub. Replace `YOUR_API_KEY_HERE` with your own key from Google AI Studio.
 
 ---
 
@@ -124,5 +126,5 @@ This project is developed as part of an academic requirement at **Universiti Keb
 ---
 
 <div align="center">
-  <i>Made with ❤️  to make mental health support more accessible for everyone.</i>
+  <i>Made with ❤️ to make mental health support more accessible for everyone.</i>
 </div>

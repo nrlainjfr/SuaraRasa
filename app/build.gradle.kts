@@ -22,7 +22,8 @@ android {
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 
-        buildConfigField("String", "apiKey", "\"AIzaSyB3z2z_7e5yhOUtvnaxN1AoHddIA_kRuyQ\"")
+        // TODO: Add your own Gemini API key here before running the app
+        buildConfigField("String", "apiKey", "\"\"")
     }
     buildFeatures {
         compose = true
